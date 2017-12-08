@@ -1,0 +1,11 @@
+¿Qué entiende como "commit"?
+cargar cambios al proyecto.
+
+
+¿Qué entiende como "merge"?
+ unir dos ramas
+
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+push: subir los cambios al internet
+pull:descargar las actualizaciones del proyecto.
