@@ -1,0 +1,5 @@
+Analisis :tomo de todos los requerimientos del cliente en el proyecto a realizar,etapa donde se describe todo el problema 
+Diseño: en esta etapa se toma todo los requerimientos y se utilizan diagramas para ver el problemaen forma grafica, determina como el proyecto funciona de manera general.
+implementacion:en esta etapa es pasar la etapa de diseño a codigo 
+pruebas:en esta etapa solo es de verificar la calidad del proyecto
+Mantenimiento: es la etapa mas importante porque se hace frente a todos los  problemas descubiertos y nuevos requerimientos que pueden surgir fuera de lo contemplado en la fase inicial

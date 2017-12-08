@@ -1,0 +1,7 @@
+ Metodologia Iterativo Incremental
+
+le proyecto se desarrolla por incremento en el cada iteracion obtiene 
+una version funcional del proyecto de esta forma el proyecto va obteniendo poco
+a poco versiones de mojoras por parte de cada cliente.
+
+

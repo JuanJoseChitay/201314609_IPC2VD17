@@ -1,0 +1,4 @@
+El modelo en cascada es un proceso secuencial, 
+en el que el desarrollo de software se realiza como  un conjunto de etapas que se ban ejecutando una tras otra. 
+Se le denomina así por las posiciones que ocupan las diferentes fases que componen el proyecto, colocadas una encima de otra, y siguiendo 
+un flujo de ejecución de arriba hacia abajo, como una cascada.
